@@ -3,7 +3,7 @@
 ---
 ---
 ```
-Link to digital garden: https://stalwart-croissant-a4178d.netlify.app/
+Link to digital garden: https://stalwart-croissant-a4178d.netlify.app
 ```
 
 # Principles
